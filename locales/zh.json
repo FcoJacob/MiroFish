@@ -205,7 +205,8 @@
     "forceStopSuccess": "模拟已强制停止",
     "forceStopFailed": "强制停止失败: {error}",
     "startGenerateReportBtn": "开始生成结果报告",
-    "generatingReportBtn": "启动中..."
+    "generatingReportBtn": "启动中...",
+    "startFailedDefault": "启动失败"
   },
   "step4": {
     "generatingSection": "正在生成{title}...",
@@ -247,7 +248,9 @@
     "panelRelatedEdges": "相关关系",
     "panelRelatedNodes": "相关节点",
     "world1": "世界1",
-    "world2": "世界2"
+    "world2": "世界2",
+    "selectionReason": "选择理由",
+    "waitingToStart": "等待开始"
   },
   "step5": {
     "interactiveTools": "Interactive Tools",

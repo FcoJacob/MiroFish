@@ -205,7 +205,8 @@
     "forceStopSuccess": "Simulation force stopped",
     "forceStopFailed": "Force stop failed: {error}",
     "startGenerateReportBtn": "Generate Report",
-    "generatingReportBtn": "Starting..."
+    "generatingReportBtn": "Starting...",
+    "startFailedDefault": "Start failed"
   },
   "step4": {
     "generatingSection": "Generating {title}...",
@@ -247,7 +248,9 @@
     "panelRelatedEdges": "Related Edges",
     "panelRelatedNodes": "Related Nodes",
     "world1": "World 1",
-    "world2": "World 2"
+    "world2": "World 2",
+    "selectionReason": "Selection Reason",
+    "waitingToStart": "Waiting to start"
   },
   "step5": {
     "interactiveTools": "Interactive Tools",
